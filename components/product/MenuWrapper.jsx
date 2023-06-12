@@ -33,7 +33,7 @@ const MenuWrapper = ({ categoryList, productList }) => {
                   setProductLimit(3);
                 }}
               >
-               
+                {category.title}
               </button>
             ))}
         </div>
