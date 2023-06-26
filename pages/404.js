@@ -10,7 +10,7 @@ const Custom404 = () => {
         alt="404"
         layout="fill"
         objectFit="cover"
-        priority  //
+        priority
       />
       <div
         style={{
@@ -21,7 +21,7 @@ const Custom404 = () => {
           alignItems: 'center',
           justifyContent: 'center',
           minHeight: '100vh',
-          color: '#ffffff', // added color to text for better 
+          color: '#ffffff', // added color to text for better visibility
         }}
       >
       
