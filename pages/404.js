@@ -10,7 +10,7 @@ const Custom404 = () => {
         alt="404"
         layout="fill"
         objectFit="cover"
-        priority
+        priority  //
       />
       <div
         style={{
