@@ -21,7 +21,9 @@ const Custom404 = () => {
           alignItems: 'center',
           justifyContent: 'center',
           minHeight: '100vh',
-          color: '#ffffff', // added colo
+          color: '#ffffff', // added color to text for better visibility
+        }}
+      >
       
       </div>
     </div>
