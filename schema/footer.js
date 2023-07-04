@@ -9,4 +9,4 @@ export const footerSchema = Yup.object({
   desc: Yup.string().required("Description is required."),
   day: Yup.string().required("Day is required."),
   time: Yup.string().required("Time is required."),
-});
+});//
