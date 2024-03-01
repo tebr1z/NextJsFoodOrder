@@ -24,7 +24,7 @@ const Custom404 = () => {
           color: '#ffffff', // added color to text for better visibility
         }}
       >
-      
+      alignItems
       </div>
     </div>
   );
